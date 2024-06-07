@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
-    username: '{cipher}6413a888f36fe53fb0611cd2fefa06c3c74ed24e3bb558cb2d09aef5e8916b6c'
+    username: '{cipher}6413a888f36fe53fb0611cd2fefa06c3c74ed24e3bb558cb2d09aef5e8916b6c_wrong'
 
 
 token:
